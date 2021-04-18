@@ -1,0 +1,261 @@
+.body{
+  background-color: black;
+}
+
+h1{
+  display:inline-block;
+  width:400px;
+  color: pink;
+}
+
+h4{
+    color: white;
+}
+.nav {
+
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+#format{
+  display: inline;
+}
+
+span{
+  display: block;
+  color: white;
+}
+.links{
+  color: white;
+
+}
+
+
+.firstDiv{
+  background-color: pink;
+  margin: 50px;
+  height: 500px;
+  width: 1000px;
+  margin-left: 250px;
+
+}
+.photo{
+  border-radius: 50%;
+  height:300px;
+  width:300px;
+  padding-left: 40px;
+  padding-top: 40px;
+}
+
+.row{
+display: table;
+
+}
+.images{
+
+  float:left;
+  clear:none;
+  padding: 20px;
+}
+
+.secondDiv{
+  background-color: pink;
+  margin: 50px;
+  height: 540px;
+  width: 1200px;
+  margin-left: 150px;
+
+}
+.top{
+  width: 180px;
+  height: 180px;
+  background-color: Aquamarine;
+  margin-left: 40px;
+  text-align: center;
+
+
+}
+.middle{
+  width: 180px;
+  height: 180px;
+  background-color: grey;
+  margin-left: 120px;
+  position: absolute;
+  margin-left: 220px;
+  text-align: center;
+
+}
+.bottom{
+  width: 180px;
+  height: 180px;
+  background-color: Aquamarine;
+  margin-left: 200px;
+
+
+}
+.middle2{
+  width: 180px;
+  height: 180px;
+  background-color: Aquamarine;
+  position: absolute;
+  margin-left: 400px;
+  text-align: center;
+}
+.bottom2{
+  width: 180px;
+  height: 180px;
+  background-color: grey;
+  margin-left: 380px;
+}
+.bottom3{
+  width: 180px;
+  height: 120px;
+  background-color: pink;
+  position: relative;
+  margin-left: 400px;
+  text-align: center;
+  bottom: 415px;
+}
+
+.dorama{
+  width: 620px;
+  height: 540px;
+  position: relative;
+  margin-left: 580px;
+  text-align: center;
+  bottom: 795px;
+
+}
+.yellow{
+  width: 220px;
+  height: 250px;
+  background-color: gold;
+  margin-top: 180px;
+  margin-left: 200px;
+  position: absolute;
+  text-align: center;
+
+}
+.purple{
+  width: 180px;
+  height: 180px;
+  background-color: orchid;
+  margin-left: 470px;
+  position: relative;
+  top: 100px;
+  text-align: center;
+
+
+
+
+}
+.lightblue{
+  width: 500px;
+  height: 250px;
+  background-color: lightblue;
+  margin-top: 150px;
+  margin-left: 450px;
+  position: absolute;
+  text-align: center;
+
+}
+.lightpink{
+  width: 550px;
+  height: 140px;
+  background-color: lightpink;
+  margin-left: 700px;
+  position: relative;
+  bottom: 30px;
+  text-align: center;
+
+}
+.green{
+  width: 250px;
+  height: 400px;
+  background-color: mediumspringgreen;
+  margin-bottom: 180px;
+  margin-left: 1000px;
+  position: relative;
+  top: 20px;
+  text-align: center;
+}
+
+
+#text1{
+
+  padding-top: 60px;
+}
+#text2{
+  padding-top: 30px;
+}
+#text3{
+  padding-top: 80px;
+}
+#text4{
+  padding-top: 70px;
+}
+#text5{
+  padding-top: 140px;
+}
+
+.photo1{
+  height: 350px;
+  width: 350px;
+  margin-left: 200px;
+
+}
+.photo2{
+  height: 350px;
+  width: 350px;
+  position: relative;
+  margin-left: 600px;
+  bottom: 370px;
+
+}
+.photo3{
+  height: 350px;
+  width: 350px;
+  margin-bottom: 120px;
+  position: relative;
+  margin-left : 950px;
+  bottom: 725px;
+
+
+}
+
+.thirdDiv{
+  background-color: pink;
+  margin: 50px;
+  height: 250px;
+  width: 1000px;
+  margin-left: 250px;
+  position: relative;
+  bottom: 750px;
+  text-align: center;
+
+}
+.formdiv{
+  background-color: grey;
+  color: white;
+  margin-bottom: 120px;
+}
+.last{
+  color: pink;
+
+}
+footer {
+
+ text-align: center;
+ padding: 3px;
+ background-color:Grey;
+
+}
+#lastlast{
+  color: black;
+}
